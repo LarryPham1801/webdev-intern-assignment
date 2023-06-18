@@ -33,8 +33,8 @@ Your application should have at least features in [Must have](#must-have), thing
 
 # Technical Requirements
 
-You can use any front-end library/framework like React, Angular, Vue, ... or just simple things with HTML + CSS + Javascript (JQuery).
-
+- BE & FE : Can use Django MVT or Flask and Jinja templates
+- Database : Using Postgres or MySQL
 - Products data:
   - [`./app/data/shoes.json`](./app/data/shoes.json)
 - Images & icons:
