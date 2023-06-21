@@ -35,6 +35,10 @@ Your application should have at least features in [Must have](#must-have), thing
 
 - BE & FE : Can use Django MVT or Flask and Jinja templates
 - Database : Using Postgres or MySQL
+- Deployment :
+  - Using pure server on DigitalOcean
+  - Using an domain from goDaddy or buy domain .vn free
+  - Follow this [article](https://www.lucpham.blog/@lucqng111/https-with-lets-encrypt-go-daddy-and-docker/) to know how to deploy a server (will update soon :)) )
 - Products data:
   - [`./app/data/shoes.json`](./app/data/shoes.json)
 - Images & icons:
